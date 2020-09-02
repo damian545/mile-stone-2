@@ -1,0 +1,31 @@
+aside {
+  text-align: center;
+}
+body {
+  background-image: url("./image/rouge-linen.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p,
+a {
+  color: lightyellow;
+  font-size: 20px;
+  font-style: oblique;
+  text-shadow: 2px 2px 4px #000000;
+}
+h1 {
+  color: lightcoral;
+  font-size: 50px;
+  font-style: oblique;
+  text-shadow: 2px 2px 4px #000000;
+}
+.footer-text {
+  width: 100%;
+  text-align: left;
+  font-size: 13px;
+  color: orange;
+}
+img {
+  border: 5px solid #555;
+  border-radius: 10px;
+}
