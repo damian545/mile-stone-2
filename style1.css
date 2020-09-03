@@ -7,7 +7,8 @@ body {
   background-size: cover;
 }
 p,
-a {
+a,
+h2 {
   color: lightyellow;
   font-size: 20px;
   font-style: oblique;
